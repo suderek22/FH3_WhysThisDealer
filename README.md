@@ -1,4 +1,4 @@
-﻿# Why's this dealer? for Forza Horizon 2
+﻿# Why's this dealer? for Forza Horizon 3
 
 Car bodies and seated drivers squash and stretch in time with a beat. Wheels follow the road normally, and the effect leaves suspension and handling alone.
 
