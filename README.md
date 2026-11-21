@@ -1,27 +1,21 @@
-﻿# Why's this dealer? for Forza Horizon 3
+# FH3-WhysThisDealer
 
-Car bodies and seated drivers squash and stretch in time with a beat. Wheels follow the road normally, and the effect leaves suspension and handling alone.
+Car bodies and seated drivers squash and stretch to a beat in Forza Horizon 3. The effect changes render transforms and leaves wheel motion, suspension, and handling alone.
 
 ## Install
 
-1. Install **FH2 Mod Platform 2.9.0** for Forza Horizon 2 on Azimuth.
-2. Close the game and extract `WhysThisDealer_v1.0.0.zip` into the folder containing `azimuth.exe`. The DLL should be at `fh2-mods/WhysThisDealer.dll`. If upgrading from a preview, replace that DLL and keep `WhysThisDealer.ini` to retain your settings.
-3. Launch offline and open **Pause > Settings > MODS > Why's this dealer?**. Set a stick binding and return to free roam.
+Use Forza Horizon 3 on Azimuth with the June 5, 2018 Xbox One executable and [FH3 ModPlatform 1.4.2 or later](https://github.com/Levilente/FH3_ModPlatform/releases/tag/v1.4.2).
 
-## Controls
+Close the game and extract the release ZIP next to `azimuth.exe`. The DLL goes in `fh3-mods`. In an offline session, open **MODS > Installed mods > FH3-WhysThisDealer**, set a stick binding, and return to free roam.
 
 | Setting | Options |
 | --- | --- |
-| Bounce BPM | 40–240 BPM, default 120 |
-| Activation mode | **Toggle** to switch on and off, or **Hold** to bounce until you release the stick |
-| Player stick binding | **Off**, **LS**, or **RS** for your car |
-| Other cars stick binding | **Off**, **LS**, or **RS** for Drivatars and traffic |
-| All cars stick binding | **Off**, **LS**, or **RS** for your car and other cars |
+| Bounce BPM | 40–240, default 120 |
+| Activation mode | Toggle or Hold |
+| Player stick binding | Off, LS, or RS for your car |
+| Other cars stick binding | Off, LS, or RS for Drivatars and traffic |
+| All cars stick binding | Off, LS, or RS for your car and other cars |
 
-Bindings start **Off**. LS and RS are the left and right stick clicks. You can share a binding with HonkHonk to trigger both mods with one click. BPM and bindings are saved in `fh2-mods/WhysThisDealer.ini`.
+All bindings start Off. LS and RS are the left and right stick clicks. The mod reads the first controller available through ModPlatform's XInput support and saves settings in `fh3-mods/FH3-WhysThisDealer.ini`.
 
-## Updates and removal
-
-FH2 Mod Platform checks GitHub for a newer release and shows available updates in the Mods menu. To upgrade, close the game and replace the DLL with the one from the new ZIP. To uninstall, remove `fh2-mods/WhysThisDealer.dll`. You can keep the INI for a later reinstall. [GitHub releases](https://github.com/suderek22/FH2_WhysThisDealer/releases)
-
-Inspired by the bouncing Toyota Yaris meme and the BeamNG.drive Easter egg. [BeamNG mod page](https://www.beamng.com/resources/whys-this-dealer.38802/)
+ModPlatform checks [FH3-WhysThisDealer releases](https://github.com/suderek22/FH3_WhysThisDealer/releases) for updates. To remove the mod, close the game and delete its DLL.
