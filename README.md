@@ -1,5 +1,7 @@
 # FH3-WhysThisDealer
 
+<img width="800" height="450" alt="FH3-WhysThisDealer" src="https://github.com/user-attachments/assets/290717d0-14b5-4200-9e0e-bfccec6dfbdd" />
+
 Car bodies and seated drivers squash and stretch to a beat in Forza Horizon 3. The effect changes render transforms and leaves wheel motion, suspension, and handling alone.
 
 ## Install
